@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "src/app/api/**/*.ts": { "runtime": "@vercel/node@18.x", "memory": 1024, "maxDuration": 10 }
-  },
-  "regions": ["sfo1", "syd1"]
-}
