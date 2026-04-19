@@ -2,5 +2,5 @@
   "functions": {
     "src/app/api/**/*.ts": { "runtime": "nodejs18.x", "memory": 1024, "maxDuration": 10 }
   },
-  "regions": ["sfo1", "iad1", "pdx1", "cdg1", "lhr1", "fra1", "gru1", "hnd1", "icn1", "kix1", "syd1"]
+  "regions": ["sfo1", "syd1"]
 }
